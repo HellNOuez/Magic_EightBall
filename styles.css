@@ -98,7 +98,7 @@ body{
     
 }
 
-.magicball__spotlight {
+.magicball1 {
     position:absolute;
     width:250px;
     height:250px;
@@ -108,7 +108,7 @@ body{
     opacity:0.2;
 }
 
-.magicball__bg__shadow {
+.magicball2 {
     position:absolute;
     width:175px;
     height:175px;
@@ -118,7 +118,7 @@ body{
     opacity:0.2;
 }
 
-.magicball__upper__shadow {
+.magicball3 {
     position:absolute;
     width:75px;
     height: 50px;
@@ -128,7 +128,7 @@ body{
     border-radius:50%;
 }
 
-.magicball__lower__shadow {
+.magicball4 {
     position:absolute;
     width:175px;
     height: 175px;
